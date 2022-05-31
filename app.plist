@@ -12,13 +12,13 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://192.168.80.135/wx01/wx01.ipa></string>
+            <string>http://127.0.0.1/wx01/wx01.ipa></string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>www.textwx.com</string>
+          <string>www.testwx.com</string>
           <key>bundle-version</key>
           <string>1.0.0></string>
           <key>kind</key>
