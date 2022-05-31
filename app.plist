@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://172.20.10.4/wx01/wx01.ipa></string>
+            <string>http://127.0.0.1/wx01/wx01.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
@@ -20,7 +20,7 @@
           <key>bundle-identifier</key>
           <string>www.testwx.com</string>
           <key>bundle-version</key>
-          <string>1.0.0></string>
+          <string>1.0.0</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
