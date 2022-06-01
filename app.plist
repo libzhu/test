@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://cdn-127.anonfiles.com/j55fG9l1yb/1ddfed13-1653998693/wx01.ipa</string>
+            <string>https://wss-1259372845.cos.ap-chengdu.myqcloud.com/nqrpn0t%2F8%2Fgb%2F8gb7nqrpn0t?response-content-disposition=attachment%3B+filename%3D%22wx01.ipa%22%3B+filename%2A%3Dutf-8%27%27wx01.ipa&sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKID96nJdhhWHm11lGpUSBpIVTBesra5EUp0%26q-sign-time%3D1654046270%3B1654048070%26q-key-time%3D1654046270%3B1654048070%26q-header-list%3D%26q-url-param-list%3Dresponse-content-disposition%26q-signature%3Da5d4ba8ec4bfb655cdc679fd4b9c95e1881e1f4c</string>
           </dict>
         </array>
         <key>metadata</key>
